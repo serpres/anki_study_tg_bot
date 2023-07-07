@@ -1,0 +1,14 @@
+{
+  "start": {
+    "WELCOME_FIRST": "Welcome",
+    "WELCOME_AGAIN": "Welcome",
+    "ERROR": "Registration error, try restarting the bot (/start)"
+  },
+  "folder": {
+    "MY_FOLDERS": "Your folders",
+    "NO_FOLDERS": "No folders",
+    "ENTER_FOLDER_NAME": "Enter folder name",
+    "FOLDER_CREATED": "Folder {folder} was successfully created",
+    "CREATE_ERROR": "An error occurred while creating the folder"
+  }
+}
